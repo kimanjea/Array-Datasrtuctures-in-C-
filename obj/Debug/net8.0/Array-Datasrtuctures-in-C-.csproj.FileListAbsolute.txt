@@ -12,3 +12,4 @@ C:\Users\13608\Documents\GitHub\Array-Datasrtuctures-in-C-\obj\Debug\net8.0\refi
 C:\Users\13608\Documents\GitHub\Array-Datasrtuctures-in-C-\obj\Debug\net8.0\Array-Datasrtuctures-in-C-.pdb
 C:\Users\13608\Documents\GitHub\Array-Datasrtuctures-in-C-\obj\Debug\net8.0\Array-Datasrtuctures-in-C-.genruntimeconfig.cache
 C:\Users\13608\Documents\GitHub\Array-Datasrtuctures-in-C-\obj\Debug\net8.0\ref\Array-Datasrtuctures-in-C-.dll
+C:\Users\13608\Documents\GitHub\Array-Datasrtuctures-in-C-\obj\Debug\net8.0\Array-Datasrtuctures-in-C-.sourcelink.json
